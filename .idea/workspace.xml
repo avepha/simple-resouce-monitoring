@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11c1ac69-c468-437c-b4b1-895f1e230e2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +138,10 @@
     </state>
     <state x="416" y="-729" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-279.-1057.1920.1057@-279.-1057.1920.1057" timestamp="1605161915239" />
     <state x="695" y="351" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1605083546223" />
+    <state x="-130" y="-955" width="1671" height="855" key="DiffContextDialog" timestamp="1605443037421">
+      <screen x="-279" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-130" y="-955" width="1671" height="855" key="DiffContextDialog/0.25.1440.875/-279.-1055.1920.1055@-279.-1055.1920.1055" timestamp="1605443037421" />
     <state width="1831" height="226" key="GridCell.Tab.0.bottom" timestamp="1605255214928">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -163,6 +167,10 @@
     </state>
     <state x="248" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604956626685" />
     <state x="331" y="116" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1604996939895" />
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1605442852330">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875/-279.-1055.1920.1055@0.25.1440.875" timestamp="1605442852330" />
     <state x="147" y="123" width="1673" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605158881867">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

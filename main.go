@@ -1,19 +1,19 @@
 package main
 
 import (
-	"fmt"
-	"net/http"
 	"encoding/json"
-	"log"
-	"github.com/mackerelio/go-osstat/memory"
+	"fmt"
 	"github.com/mackerelio/go-osstat/cpu"
+	"github.com/mackerelio/go-osstat/memory"
+	"log"
+	"net/http"
 )
 
 const PORT string = "4004"
 
 type Resources struct {
 	Memory *memory.Stats
-	Cpu *cpu.Stats
+	Cpu    *cpu.Stats
 }
 
 func StatusHandler(w http.ResponseWriter, _ *http.Request) {
@@ -38,9 +38,9 @@ func ResourcesHandler(w http.ResponseWriter, r *http.Request) {
 		log.Fatal(err)
 	}
 
-	res := Resources {
+	res := Resources{
 		Memory: memStats,
-		Cpu: cpuStats,
+		Cpu:    cpuStats,
 	}
 
 	bytes, err := json.Marshal(res)

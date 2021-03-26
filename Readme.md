@@ -1,6 +1,6 @@
 ## RPI Resouce monitoring
 - Simple resource monitoring for raspberry pi.
-- Provide only one api /resources for getting **memory** and  **cpu** utilization.
+- Provide one api `/resources` for getting **memory** and  **cpu** utilization.
 
 ### Raspberry Installation
 ```
